@@ -1,5 +1,5 @@
 # Blinkit-Analysis
-An interactive Power BI dashboard analyzing Blinkit’s sales performance across outlet types, sizes, and tiered locations. It highlights key metrics like total sales, item types, and customer ratings to uncover trends and support data-driven decisions in retail and e-commerce operations.
+An interactive Excel dashboard analyzing Blinkit’s sales performance across outlet types, sizes, and tiered locations. It highlights key metrics like total sales, item types, and customer ratings to uncover trends and support data-driven decisions in retail and e-commerce operations.
 
 
 <p align="center">
@@ -34,7 +34,7 @@ An interactive Power BI dashboard analyzing Blinkit’s sales performance across
 
 ## 🧰 Tech Stack
 
-- **Tool Used:** Microsoft Power BI  
+- **Tool Used:** Microsoft Excel 
 - **Data Type:** Sales & Operations Data  
 - **Use Case:** Retail & E-Commerce Analytics
 
