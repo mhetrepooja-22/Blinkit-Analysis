@@ -42,7 +42,7 @@ An interactive Excel dashboard analyzing Blinkit’s sales performance across ou
 - **Data Type:** Sales & Operations Data  
 - **Use Case:** Retail & E-Commerce Analytics
 
-## References
+## 📚 References
 
 - **Dataset:** Referenced from a YouTube video [Link](https://www.youtube.com/watch?v=klZj_282ApY&t=8768s)
 - Excel Pivot Table techniques used in this project were learned from the following video [Link](https://www.youtube.com/watch?v=E2dRKo94VfM)
