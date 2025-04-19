@@ -3,7 +3,7 @@ An interactive Power BI dashboard analyzing Blinkit’s sales performance across
 
 
 <p align="center">
-  <img src="PATH_TO_BLINKIT_LOGO" alt="Blinkit Logo" width="200"/>
+  <img src="https://github.com/mhetrepooja-22/Blinkit-Analysis/blob/main/blinkit-logo-vector_logoshape.com.png?raw=true" alt="Blinkit image" />
 </p>
 
 
@@ -13,7 +13,7 @@ An interactive Power BI dashboard analyzing Blinkit’s sales performance across
 - 🛒 **Total Items Sold:** 8,523
 - 🌟 **Average Customer Rating:** 3.9 Stars
 
----
+
 
 ## 📊 Visual Insights
 
@@ -22,7 +22,7 @@ An interactive Power BI dashboard analyzing Blinkit’s sales performance across
 - **Outlet Performance** by Size & Location (Tier 1, 2, 3)
 - **Outlet Type & Establishment Trends**
 
----
+
 
 ## 💡 Business Insights
 
@@ -30,7 +30,7 @@ An interactive Power BI dashboard analyzing Blinkit’s sales performance across
 - Supermarket Type 1 generates maximum revenue.
 - Low-fat products lead in customer preference.
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -38,13 +38,6 @@ An interactive Power BI dashboard analyzing Blinkit’s sales performance across
 - **Data Type:** Sales & Operations Data  
 - **Use Case:** Retail & E-Commerce Analytics
 
----
-
-## 🚀 How to Use
-
-This dashboard can be embedded in business reports or presentations to analyze outlet efficiency, customer preferences, and geographic trends. It's ideal for strategy, marketing, and operations teams.
-
----
 
 ## 📬 Let’s Connect
 
