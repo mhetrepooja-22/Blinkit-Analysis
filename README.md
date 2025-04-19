@@ -6,6 +6,10 @@ An interactive Excel dashboard analyzing Blinkit’s sales performance across ou
   <img src="https://github.com/mhetrepooja-22/Blinkit-Analysis/blob/main/blinkit-logo-vector_logoshape.com.png?raw=true" alt="Blinkit image" />
 </p>
 
+<p align="center">
+  <i style="font-size: 4px;">The Blinkit logo and brand name are the property of Blink Commerce Pvt. Ltd. and are used here for educational and non-commercial purposes only. This project is not affiliated with or endorsed by Blinkit. All rights and trademarks belong to their respective owners.</i>
+</p>
+
 
 ## 📌 Key Highlights
 
@@ -38,9 +42,14 @@ An interactive Excel dashboard analyzing Blinkit’s sales performance across ou
 - **Data Type:** Sales & Operations Data  
 - **Use Case:** Retail & E-Commerce Analytics
 
+## References
 
-## 📬 Let’s Connect
+- **Dataset:** Referenced from a YouTube video [Link](https://www.youtube.com/watch?v=klZj_282ApY&t=8768s)
+- Excel Pivot Table techniques used in this project were learned from the following video [Link](https://www.youtube.com/watch?v=E2dRKo94VfM)
 
-For feedback, improvements, or collaborations, feel free to reach out via LinkedIn or email!
+ 
+
+
+
 
 
